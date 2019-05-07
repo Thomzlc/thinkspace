@@ -1,4 +1,6 @@
 # thinkspace
-Project Think Space by Thomas Lin
+by Thomas Lin
 
 Hello World.
+
+Now where do I start...
